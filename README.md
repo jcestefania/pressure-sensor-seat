@@ -48,4 +48,5 @@ The ESP32 reads data from 4 piezoresistive sensors connected as voltage dividers
 
 ## Data Format
 The Google Sheet stores data with the following structure:
+```
 | Timestamp (Unix) | Sensor 1 | Sensor 2 | Sensor 3 | Sensor 4 |
