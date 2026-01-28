@@ -1,4 +1,13 @@
-# Pressure Sensor Seat
+# Pressure Sensor Seat - Smart Occupancy Detection 🪑📊
+
+> 🏆 **Bachelor's Thesis (TFG) awarded with Distinction (Matrícula de Honor - 9.6/10)**.
+> Universidad CUNEF - Engineering School.
+
+## 📄 Full Documentation
+You can read the full academic dissertation here:
+👉 **[Download Project Memory (PDF)](./docs/TFG_Pressure_Sensor_System.pdf)**
+
+---
 
 This project is a smart occupancy detection system for seats using piezoresistive pressure sensors (MD30-60) and an ESP32 microcontroller. It is designed for real-time monitoring and wireless data transmission to the cloud using Google Sheets.
 
